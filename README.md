@@ -40,4 +40,4 @@ But I only have so much time for extracurricular activities, so it'll have to do
 Please get in touch if you have any comments, questions, advice, etc.
 
 And thanks for your interest!
-- Tom
+Tom
