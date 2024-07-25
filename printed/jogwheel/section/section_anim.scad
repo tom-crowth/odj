@@ -1,5 +1,10 @@
 
+
 use <../jogwheel_assembly.scad>;
+
+$fs = $preview ? 1 : 0.5;
+$fa = $preview ? 3 : 0.5;
+
 module sectionview() {
 
     difference() {

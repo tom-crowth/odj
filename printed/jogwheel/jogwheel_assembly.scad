@@ -94,7 +94,7 @@ bearing_grooves = [bearing_groove_dim, bearing_groove_depth, inner_bear_rad_offs
 clearances = [clearance, outer_clear, spring_diff];
 
 // draw settings
-$fn=50;
+// $fn=50;
 
 module jogwheel_assembly() {
 
